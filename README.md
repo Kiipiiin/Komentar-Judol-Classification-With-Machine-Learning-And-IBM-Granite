@@ -1,5 +1,6 @@
 # Komentar-Judol-Classification-With-Machine-Learning-And-IBM-Granite
 
+# Project Overview
 Latar Belakang:
 Perkembangan live streaming sebagai media interaksi publik kini menghadapi tantangan baru: penyalahgunaan oleh akun-akun anonim untuk menyebarkan promosi judi online. Fenomena ini terjadi bahkan dalam acara budaya yang bersifat resmi dan publik
 
@@ -11,9 +12,8 @@ Pendekatan:
 2. Analisis semantik dan summarization komentar menggunakan IBM Granite LLM.
 3. Penarikan insight berdasarkan perbedaan gaya bahasa, strategi spam, dan narasi dominan dalam komentar.
 
-
-RAW Dataset LINK: https://www.kaggle.com/datasets/yaemico/deteksi-judi-online .
-Deskripsi Dataset: Deteksi Judi Online
+# Raw Dataset
+Deskripsi Dataset: Deteksi Judi Online (https://www.kaggle.com/datasets/yaemico/deteksi-judi-online)
 Judul: 🔴LIVE Wayang Jogja Night Carnival #9, Perayaan HUT ke-268 Kota Yogyakarta
 Channel: @TribunJogjaOfficial
 Sumber: YouTube
