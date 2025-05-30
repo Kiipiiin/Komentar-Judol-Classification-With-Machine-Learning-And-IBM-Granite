@@ -56,15 +56,29 @@ Kesalahan Klasifikasi: Komentar seperti “pas4d gacor” tergolong ambigu, kare
 
 # AI Support Explanation
 Dalam proyek ini digunakan kombinasi model Machine Learning dan LLM Granite:
-1. Model Klasifikasi (XGBoost)
--Tujuan: Mendeteksi komentar berlabel promosi judi secara otomatis.
--Input: Komentar yang telah dibersihkan.
--Output: Label klasifikasi (0 atau 1).
+1. Model Klasifikasi (XGBoost)  
+   - **Tujuan**: Mendeteksi komentar berlabel promosi judi secara otomatis.  
+   - **Input**: Komentar yang telah dibersihkan.  
+   - **Output**: Label klasifikasi (0 atau 1).
 
-2. LLM IBM Granite (granite-3.3-8b-instruct)
-Tujuan: Menganalisis semantik komentar terklasifikasi.
+2. LLM IBM Granite (granite-3.3-8b-instruct)  
+   - **Tujuan**: Menganalisis semantik komentar terklasifikasi.  
+   - **Teknik**: Prompt injection berisi:
 
-Teknik: Prompt injection berisi:
+     ```python
+     prompt = f"""
+     Kamu adalah pakar linguistik digital dan analis keamanan siber yang bertugas mengidentifikasi pola bahasa dan strategi penyamaran dalam komentar promosi judi online.
+     Tim kita sudah membuat model XGBoost dan akan mengirim anda hasil klasifikasinya dengan format (Username: Komentar).
+
+     Berikut ini adalah hasil klasifikasi komentar promosi judi online:
+     {judi_text}
+
+     Berikut ini adalah hasil klasifikasi komentar non-promosi:
+     {nonjudi_text}
+     """
+     ```
+
+
 
 
 
