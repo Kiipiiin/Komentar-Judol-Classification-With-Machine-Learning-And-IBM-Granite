@@ -28,22 +28,22 @@ Fitur:
 5. label: Label biner (0 = non-promosi, 1 = promosi judi online).
 
 # Insight & Findings
-1. Perbedaan Gaya Bahasa pada Komentar Promosi
-Komentar promosi judi online memiliki ciri khas:
-Ajakan & Urgensi: Menggunakan kalimat seperti "freebet 100rb", "buruan gas", "garansi 100%".
-Nama Platform: Sering mencantumkan nama seperti "wisdomtoto", "pas4d", "meteorwin".
-Penggunaan Simbol: Menggunakan @ dan # secara strategis.
-Bahasa Promosi: Kata-kata seperti "gacor", "gratis", "newmember" mendominasi.
+Perbedaan Gaya Bahasa pada Komentar Promosi
+1. Komentar promosi judi online memiliki ciri khas:
+2. Ajakan & Urgensi: Menggunakan kalimat seperti "freebet 100rb", "buruan gas", "garansi 100%".
+3. Nama Platform: Sering mencantumkan nama seperti "wisdomtoto", "pas4d", "meteorwin".
+4. Penggunaan Simbol: Menggunakan @ dan # secara strategis.
+5. Bahasa Promosi: Kata-kata seperti "gacor", "gratis", "newmember" mendominasi.
 
-2. Pola Akun Pengguna
-Repetisi Nama: Akun bot-like muncul berulang (e.g., Khokhar Saab, Gaming Boy).
-Nama Mengandung Kata Kunci Judi: Seperti "@Indiaफूडी", "pas4d gacor".
-Akun Normal: Seperti “Fitria Christalina” dan “arif ramadhan” tidak menunjukkan tanda spam.
+Pola Akun Pengguna
+1. Repetisi Nama: Akun bot-like muncul berulang (e.g., Khokhar Saab, Gaming Boy).
+2. Nama Mengandung Kata Kunci Judi: Seperti "@Indiaफूडी", "pas4d gacor".
+3. Akun Normal: Seperti “Fitria Christalina” dan “arif ramadhan” tidak menunjukkan tanda spam.
 
-3. Strategi Penyamaran dalam Komentar
-Penggunaan Spasi & Simbol: "d3p0 100 jd 2jt buruan gas" atau "ketik di google wisdomtoto".
-Pemisahan Kata Kunci: "pas4d" dan "gacor" ditulis terpisah untuk menghindari filter otomatis.
-Kode Halus: Menggunakan instruksi tidak langsung seperti “ketik di google”.
+Strategi Penyamaran dalam Komentar
+1. Penggunaan Spasi & Simbol: "d3p0 100 jd 2jt buruan gas" atau "ketik di google wisdomtoto".
+2. Pemisahan Kata Kunci: "pas4d" dan "gacor" ditulis terpisah untuk menghindari filter otomatis.
+3. Kode Halus: Menggunakan instruksi tidak langsung seperti “ketik di google”.
 
 
 
