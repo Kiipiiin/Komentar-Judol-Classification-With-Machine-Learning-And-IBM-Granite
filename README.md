@@ -45,5 +45,30 @@ Strategi Penyamaran dalam Komentar
 2. Pemisahan Kata Kunci: "pas4d" dan "gacor" ditulis terpisah untuk menghindari filter otomatis.
 3. Kode Halus: Menggunakan instruksi tidak langsung seperti “ketik di google”.
 
+Narasi Dominan Promosi Judi
+1. Tema Freebet: >60% menggunakan "freebet 100rb" atau sejenisnya.
+2. Link Promosi Terselubung: Komentar menyuruh pengguna mencari di Google.
+3. Jaminan Menang: Sering menawarkan janji seperti “garansi 100%”.
+
+Analisis False Positive
+Komentar Non-promosi: Seperti "selamat ulang tahun jogja ku tercinta".
+Kesalahan Klasifikasi: Komentar seperti “pas4d gacor” tergolong ambigu, karena menyebut platform tapi tanpa ajakan langsung.
+
+# AI Support Explanation
+Dalam proyek ini digunakan kombinasi model Machine Learning dan LLM Granite:
+1. Model Klasifikasi (XGBoost)
+Tujuan: Mendeteksi komentar berlabel promosi judi secara otomatis.
+
+Input: Komentar yang telah dibersihkan.
+
+Output: Label klasifikasi (0 atau 1).
+
+2. LLM IBM Granite (granite-3.3-8b-instruct)
+Tujuan: Menganalisis semantik komentar terklasifikasi.
+
+Teknik: Prompt injection berisi:
+
+
+
 
 
