@@ -30,12 +30,20 @@ Fitur:
 # Insight & Findings
 1. Perbedaan Gaya Bahasa pada Komentar Promosi
 Komentar promosi judi online memiliki ciri khas:
-
 Ajakan & Urgensi: Menggunakan kalimat seperti "freebet 100rb", "buruan gas", "garansi 100%".
-
 Nama Platform: Sering mencantumkan nama seperti "wisdomtoto", "pas4d", "meteorwin".
-
 Penggunaan Simbol: Menggunakan @ dan # secara strategis.
-
 Bahasa Promosi: Kata-kata seperti "gacor", "gratis", "newmember" mendominasi.
+
+2. Pola Akun Pengguna
+Repetisi Nama: Akun bot-like muncul berulang (e.g., Khokhar Saab, Gaming Boy).
+Nama Mengandung Kata Kunci Judi: Seperti "@Indiaफूडी", "pas4d gacor".
+Akun Normal: Seperti “Fitria Christalina” dan “arif ramadhan” tidak menunjukkan tanda spam.
+
+3. Strategi Penyamaran dalam Komentar
+Penggunaan Spasi & Simbol: "d3p0 100 jd 2jt buruan gas" atau "ketik di google wisdomtoto".
+Pemisahan Kata Kunci: "pas4d" dan "gacor" ditulis terpisah untuk menghindari filter otomatis.
+Kode Halus: Menggunakan instruksi tidak langsung seperti “ketik di google”.
+
+
 
