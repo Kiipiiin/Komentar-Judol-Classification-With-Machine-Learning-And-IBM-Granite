@@ -1,5 +1,6 @@
 # Komentar-Judol-Classification-With-Machine-Learning-And-IBM-Granite
 
+LINK COLAB NOTEBOOK: https://colab.research.google.com/drive/1g7LDQ7MTomjGSdtRfSynqzjPlojpojRO?usp=sharing
 # Project Overview
 Latar Belakang:
 Perkembangan live streaming sebagai media interaksi publik kini menghadapi tantangan baru: penyalahgunaan oleh akun-akun anonim untuk menyebarkan promosi judi online. Fenomena ini terjadi bahkan dalam acara budaya yang bersifat resmi dan publik
