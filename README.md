@@ -84,7 +84,7 @@ Dalam proyek ini digunakan kombinasi model Machine Learning dan LLM Granite:
 
 # Conclusion & Recommendation
 Dampak Nyata: Komentar promosi judi dapat mengganggu ruang publik virtual dan menciptakan persepsi negatif terhadap acara budaya.
-
+Kelemahan: IBM Granite memilike token limited sehingga jumlah kata outputnya limited yang mengakibatkan kita tidak dapat insight yang 100% SANGAT detail.
 Solusi: Kombinasi sistem klasifikasi otomatis dan analisis LLM dapat digunakan untuk memoderasi komentar di waktu nyata.
 
 Rekomendasi: Platform streaming dan penyelenggara acara publik digital perlu mengadopsi AI moderasi sebagai sistem pertahanan terhadap penyalahgunaan platform.
