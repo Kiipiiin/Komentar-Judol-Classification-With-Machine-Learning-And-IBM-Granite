@@ -77,6 +77,11 @@ Dalam proyek ini digunakan kombinasi model Machine Learning dan LLM Granite:
      {nonjudi_text}
      """
      ```
+   - **Output**:  
+     Ringkasan pola bahasa, narasi dominan, dan strategi spam, seperti:
+     - Kata-kata ajakan *(gratis, freebet, gacor)*  
+     - Penggunaan nama akun yang mirip bot  
+     - Teknik manipulasi simbolik seperti *“@”* dan *“ketik di google”*
 
 
 
