@@ -12,7 +12,7 @@ Pendekatan:
 3. Penarikan insight berdasarkan perbedaan gaya bahasa, strategi spam, dan narasi dominan dalam komentar.
 
 
-RAW Dataset LINK: https://www.kaggle.com/datasets/yaemico/deteksi-judi-online
+RAW Dataset LINK: https://www.kaggle.com/datasets/yaemico/deteksi-judi-online .
 Deskripsi Dataset: Deteksi Judi Online
 Judul: 🔴LIVE Wayang Jogja Night Carnival #9, Perayaan HUT ke-268 Kota Yogyakarta
 Channel: @TribunJogjaOfficial
@@ -27,7 +27,7 @@ Fitur:
 4. cleaned_message: Versi komentar yang telah dibersihkan.
 5. label: Label biner (0 = non-promosi, 1 = promosi judi online).
 
-#Insight & Findings
+# Insight & Findings
 1. Perbedaan Gaya Bahasa pada Komentar Promosi
 Komentar promosi judi online memiliki ciri khas:
 
