@@ -29,12 +29,10 @@ Fitur:
 5. label: Label biner (0 = non-promosi, 1 = promosi judi online).
 
 # Insight & Findings
-Perbedaan Gaya Bahasa pada Komentar Promosi
-1. Komentar promosi judi online memiliki ciri khas:
-2. Ajakan & Urgensi: Menggunakan kalimat seperti "freebet 100rb", "buruan gas", "garansi 100%".
-3. Nama Platform: Sering mencantumkan nama seperti "wisdomtoto", "pas4d", "meteorwin".
-4. Penggunaan Simbol: Menggunakan @ dan # secara strategis.
-5. Bahasa Promosi: Kata-kata seperti "gacor", "gratis", "newmember" mendominasi.
+Perbedaan Gaya Bahasa pada Komentar Promosi, Komentar promosi judi online memiliki ciri khas:
+1. Ajakan & Urgensi: Menggunakan kalimat seperti "freebet 100rb", "buruan gas", "garansi 100%".
+2. Nama Platform: Sering mencantumkan nama seperti "wisdomtoto", "pas4d", "meteorwin".
+3. Bahasa Promosi: Kata-kata seperti "gacor", "gratis", "newmember" mendominasi.
 
 Pola Akun Pengguna
 1. Repetisi Nama: Akun bot-like muncul berulang (e.g., Khokhar Saab, Gaming Boy).
